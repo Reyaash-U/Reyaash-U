@@ -37,6 +37,11 @@ const reyaash = {
   motto: "Ship fast. Break things. Fix faster. 🚀"
 };
 ```
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%2300D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://reyaash.web.app/)
+
+</div>
 
 ---
 
