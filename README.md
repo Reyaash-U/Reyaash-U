@@ -6,7 +6,7 @@
 <tr>
 <td valign="top" width="55%">
 
-**Software Developer @ Sona College of Technology**
+**Software Developer**
 
 - 🔗 Here's my [portfolio](https://reyaash.web.app/)
 - 🚀 Currently building **scalable full-stack applications** and **real-time systems**
