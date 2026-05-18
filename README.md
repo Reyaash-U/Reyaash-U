@@ -8,7 +8,7 @@
 
 **Software Developer**
 
-- 🔗 Here's my [portfolio](https://reyaash.web.app/)
+- 
 - 🚀 Currently building **scalable full-stack applications** and **real-time systems**
 - 🧠 I'm currently learning **Data Structures and Algorithms**, **System Design**
 - 🏆 **IIT Ropar Top Performer** —  (Dec 2024)
