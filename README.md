@@ -7,8 +7,7 @@
 <td valign="top" width="55%">
 
 **Software Developer**
-
-- 
+ 
 - 🚀 Currently building **scalable full-stack applications** and **real-time systems**
 - 🧠 I'm currently learning **Data Structures and Algorithms**, **System Design**
 - 🏆 **IIT Ropar Top Performer** —  (Dec 2024)
